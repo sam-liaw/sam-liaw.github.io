@@ -13,13 +13,17 @@ You need a higher level of the 'Transactions -> Sales Order' permission to acces
 Please contact your account administrator."  
 {% endhighlight %}
 
-![Alt text](/image/github.io/NETSUITE00.png)
+![Alt text](/image/github.io/NETSUITE00.png)  
+
 輸入 `page:role`    
 選擇 `Page:Manage Roles`  
-![Alt text](/image/github.io/NETSUITE01.png)
+
+![Alt text](/image/github.io/NETSUITE01.png)  
+
 選擇 `Token Based Authentication`  
-![Alt text](/image/github.io/NETSUITE02.png)
+
+![Alt text](/image/github.io/NETSUITE02.png)  
 選擇 `Transactions`  
 選擇 `Sales Order`  
-Level 調到 Full  
-並記得 Save 設定  
+`Level` 調到 `Full`  
+並記得 `Save` 設定  
